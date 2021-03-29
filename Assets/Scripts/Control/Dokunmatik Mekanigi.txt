@@ -1,0 +1,18 @@
+Dokunmatik Mekanigi :
+
+Kontrol çubuguna tıklandığında;
+	*Secim yapıldıgını gosteren bir isaret(obje'nin netligi arttırılabilir,enrafına renkli cizgi eklenebilir.)
+	*Ekrana dokun surukle ozelligi aktif edilir(oyuncu ekranda parmagını kaydırdıgında etkilesim olur.)
+		*Oyuncu parmagını saga suruklerse
+			*Kontrol cubugu saga dogru yatacak.(Z ekseninde)
+		*Oyuncu parmagını sola suruklerse
+			*Kontrol cubugu sola dogru yatacak.(Z ekseninde)
+		*Oyuncu parmagını yukarı suruklerse
+			*Kontrol cubugu one dogru yatacak.(X ekseninde)
+		Oyuncu parmagını asagı suruklerse
+			*Kontrol cubugu geriye dogru yatacak.(X ekseninde)
+
+Button'a tıklandıgında (kontrol cubugunun yanında duruyor.)
+	*Kazım islemi aktif ise kapatacak,pasif ise acacak.
+	
+
